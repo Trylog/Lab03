@@ -1,0 +1,6 @@
+laptop
+2
+zabawka
+0
+mysz
+1
